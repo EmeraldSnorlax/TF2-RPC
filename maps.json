@@ -1,0 +1,544 @@
+{
+  "maps": [
+    {
+     "lname": "ctf_2fort",
+     "name": "2fort",
+     "gamemode": "Capture the flag"
+    },
+    {
+     "lname": "ctf_2fort_invasion",
+     "name": "2fort Invasion",
+     "gamemode": "Capture the flag"
+    },
+    {
+     "lname": "ctf_doublecross",
+     "name": "Double Cross",
+     "gamemode": "Capture the flag"
+    },
+    {
+     "lname": "ctf_landfall",
+     "name": "Landfall",
+     "gamemode": "Capture the flag"
+    },
+    {
+     "lname": "ctf_sawmill",
+     "name": "Sawmill",
+     "gamemode": "Capture the flag"
+    },
+    {
+     "lname": "ctf_turbine",
+     "name": "Turbine",
+     "gamemode": "Capture the flag"
+    },
+    {
+     "lname": "ctf_well",
+     "name": "Well",
+     "gamemode": "Capture the flag"
+    },
+    {
+     "lname": "cp_5gorge",
+     "name": "5Gorge",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_badlands",
+     "name": "Badlands",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_coldfront",
+     "name": "Coldfront",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_fastlane",
+     "name": "Fastlane",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_foundry",
+     "name": "Foundry",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_freight_final1",
+     "name": "Freight",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_granary",
+     "name": "Granary",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_gullywash_final1",
+     "name": "Gullywash",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_metalworks",
+     "name": "Metalworks",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_powerhouse",
+     "name": "Powerhouse",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_process_final",
+     "name": "Process",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_sunshine_event",
+     "name": "Sunshine Event",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_snakewater_final1",
+     "name": "Snakewater",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_sunshine",
+     "name": "Sunshine",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_vangaurd",
+     "name": "Vangaurd",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_well",
+     "name": "Well",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_yukon_final",
+     "name": "Yukon",
+     "gamemode": "5CP"
+    },
+    {
+     "lname": "cp_dustbowl",
+     "name": "Dustbowl",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_egypt_final",
+     "name": "Egypt",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_gorge",
+     "name": "Gorge",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_gorge_event",
+     "name": "Gorge Event",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_gravelpit",
+     "name": "Gravel Pit",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_junction_final",
+     "name": "Hunction",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_manor_event",
+     "name": "Mann Manor",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_mercenarypark",
+     "name": "Mercenary Park",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_mossrock",
+     "name": "Mossrock",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_mountainlab",
+     "name": "Mountain Lab",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_snowplow",
+     "name": "Snowplow",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_steel",
+     "name": "Steel",
+     "gamemode": "Attack / Defend"
+    },
+    {
+     "lname": "cp_degrootkeep",
+     "name": "DeGroot Keep",
+     "gamemode": "A/D Medieval Mode"
+    },
+    {
+     "lname": "cp_standin_final",
+     "name": "Standin",
+     "gamemode": "CP Domination"
+    },
+    {
+     "lname": "tc_hydro",
+     "name": "Hydro",
+     "gamemode": "Territory Control"
+    },
+    {
+     "lname": "pl_badwater",
+     "name": "Badwater Basin",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_barnblitz",
+     "name": "Barnblitz",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_borneo",
+     "name": "Borneo",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_fifthcurve_event",
+     "name": "Brimstone",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_enclosure_final",
+     "name": "Enclosure",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_frontier_final",
+     "name": "Frontier",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_goldrush",
+     "name": "Gold Rush",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_rumble_event",
+     "name": "Gravestone",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_millstone_event",
+     "name": "Hellstone",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_hoodoo_final",
+     "name": "Hoodoo",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_precipice_event_final",
+     "name": "Precipice",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_snowycoast",
+     "name": "Snowycoast",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_swiftwater_final",
+     "name": "Swiftwater",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_thundermountain",
+     "name": "Thunder Mountain",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "pl_upward",
+     "name": "Upward",
+     "gamemode": "Payload"
+    },
+    {
+     "lname": "plr_bananabay",
+     "name": "Banana Bay",
+     "gamemode": "Payload Race"
+    },
+    {
+     "lname": "plr_hightower_event",
+     "name": "Helltower",
+     "gamemode": "Payload Race"
+    },
+    {
+     "lname": "plr_hightower",
+     "name": "Hightower",
+     "gamemode": "Payload Race"
+    },
+    {
+     "lname": "plr_nightfall_final",
+     "name": "Nightfall",
+     "gamemode": "Payload Race"
+    },
+    {
+     "lname": "plr_pipeline",
+     "name": "Pipeline",
+     "gamemode": "Payload Race"
+    },
+    {
+     "lname": "arena_badlands",
+     "name": "Badlands",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "arena_byre",
+     "name": "Byre",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "arena_granary",
+     "name": "Granary",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "arena_lumberyard",
+     "name": "Lumberyard",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "arena_nucleus",
+     "name": "Nucleus",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "arena_offblast_final",
+     "name": "Offblast",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "arena_ravine",
+     "name": "Ravine",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "arena_sawmill",
+     "name": "Sawmill",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "arena_watchtower",
+     "name": "Watchtower",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "arena_well",
+     "name": "Well",
+     "gamemode": "Arena"
+    },
+    {
+     "lname": "koth_brazil",
+     "name": "Brazil",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_bagel_event",
+     "name": "Cauldrom",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_viaduct_event",
+     "name": "Eyeaduct",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_lakeside_event",
+     "name": "Ghost Fort",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_harvest_final",
+     "name": "Harvest",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_harvest_event",
+     "name": "Harvest Event",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_highpass",
+     "name": "Highpass",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_king",
+     "name": "Kong King",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_lakeside_final",
+     "name": "Lakeside",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_slaughter_event",
+     "name": "Laughter",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_lazarus",
+     "name": "Lazarus",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_maple_ridge_event",
+     "name": "Maple Ridge Event",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_moonshine_event",
+     "name": "Moonshine Event",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_nucleus",
+     "name": "Nucleus",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_probed",
+     "name": "Probed",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_sawmill",
+     "name": "Sawmill",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_slasher",
+     "name": "Slasher",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_suijin",
+     "name": "Suijin",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "koth_viaduct",
+     "name": "Viaduct",
+     "gamemode": "King of the hill"
+    },
+    {
+     "lname": "sd_doomsday_event",
+     "name": "Carnival of carnage",
+     "gamemode": "Special Delivery"
+    },
+    {
+     "lname": "sd_doomsday",
+     "name": "Doomsday",
+     "gamemode": "Special Delivery"
+    },
+    {
+     "lname": "mvm_bigrock",
+     "name": "Bigrock",
+     "gamemode": "Mann vs. Machine"
+    },
+    {
+     "lname": "mvm_coaltown",
+     "name": "Coal Town",
+     "gamemode": "Mann vs. Machine"
+    },
+    {
+     "lname": "mvm_decoy",
+     "name": "Decoy",
+     "gamemode": "Mann vs. Machine"
+    },
+    {
+     "lname": "mvm_ghost_town",
+     "name": "Ghost Town",
+     "gamemode": "Mann vs. Machine"
+    },
+    {
+     "lname": "mvm_mannhattan",
+     "name": "Mannhattan",
+     "gamemode": "Mann vs. Machine"
+    },
+    {
+     "lname": "mvm_mannworks",
+     "name": "Mannworks",
+     "gamemode": "Mann vs. Machine"
+    },
+    {
+     "lname": "mvm_rottenburg",
+     "name": "Rottenburg",
+     "gamemode": "Mann vs. Machine"
+    },
+    {
+     "lname": "ctf_foundry",
+     "name": "Foundry",
+     "gamemode": "Mannpower"
+    },
+    {
+     "lname": "ctf_gorge",
+     "name": "Gorge",
+     "gamemode": "Mannpower"
+    },
+    {
+     "lname": "ctf_hellfire",
+     "name": "Hellfire",
+     "gamemode": "Mannpower"
+    },
+    {
+     "lname": "ctf_thundermountain",
+     "name": "Thunder Mountain",
+     "gamemode": "Mannpower"
+    },
+    {
+     "lname": "ctf_foundry",
+     "name": "Foundry",
+     "gamemode": "Mannpower"
+    },
+    {
+     "lname": "pass_brickyard",
+     "name": "Brickyard",
+     "gamemode": "PASS Time"
+    },
+    {
+     "lname": "pass_district",
+     "name": "District",
+     "gamemode": "PASS Time"
+    },
+    {
+     "lname": "pass_timbertown",
+     "name": "Timertown",
+     "gamemode": "PASS Time"
+    },
+    {
+     "lname": "pd_monsterbash",
+     "name": "Monster Bash",
+     "gamemode": "Player Destruction"
+    },
+    {
+     "lname": "pd_pit_of_death_event",
+     "name": "Pit of Death",
+     "gamemode": "Player Destruction"
+    },
+    {
+     "lname": "pd_watergate",
+     "name": "Watergate",
+     "gamemode": "Player Destruction"
+    }
+   ]
+}
