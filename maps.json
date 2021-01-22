@@ -540,5 +540,45 @@
      "name": "Watergate",
      "gamemode": "Player Destruction"
     }
+    {
+    "lname": "koth_undergrove_event",
+    "name": "Moldergrove"
+    "gamemode": "King of the hill"
+    },
+    {
+    "lname": "koth_megalo"
+    "name": "Megalo"
+    "gamemode": "King of the hill"
+    },
+    {
+    "lname": "pl_hasslecastle"
+    "name": "Hassle Castle"
+    "gamemode": "Payload"
+    },
+    {
+    "lname": "pl_bloodwater"
+    "name": "Bloodwater"
+    "gamemode": "Payload"
+    },
+    {
+    "lname": "pl_wutville_event"
+    "name": "Wutville"
+    "gamemode": "Payload"
+    },
+    {
+    "lname": "pd_snowville_event"
+    "name": "Snowville"
+    "gamemode": "Player Destruction"
+    },
+    {
+    "lname": "ctf_snowfall_final"
+    "name": "Snowfall"
+    "gamemode": "Capture the flag"
+    },
+    {
+    "lname": "pl_pier"
+    "name": "Pier"
+    "gamemode": "Payload"
+    },
    ]
 }
